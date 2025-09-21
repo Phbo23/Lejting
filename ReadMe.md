@@ -1,8 +1,8 @@
 # LejTing (React Native / Expo)
 
-En simpel prototype der opfylder minimumskravene: 3 screens (Home, Browse, ItemDetail), 2 knapper (navigation + funktion), 1 liste (FlatList), separat styling (styles/styles.js).
+En simpel prototype: 3 screens (Home, Browse, ItemDetail), 2 knapper (navigation + funktion), 1 liste (FlatList), separat styling (styles/styles.js).
 
-## Kom i gang (for begyndere)
+## Steps
 1. Installer Node.js LTS: https://nodejs.org
 2. Installer Expo CLI (valgfrit): `npm i -g expo`
 3. Opret projektmappe og kopier filer herind.
@@ -13,7 +13,7 @@ En simpel prototype der opfylder minimumskravene: 3 screens (Home, Browse, ItemD
 ## Demo-video
 Link: _indsæt YouTube- eller GitHub-link til skærmoptagelse her_
 
-## Idé og næste skridt
+## Idéer til eventuelle næste skridt:
 - Filtrering og søgning
 - Login/profiler
 - Rigtig forespørgsels-flow (formular + backend)
