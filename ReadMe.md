@@ -18,3 +18,4 @@ Link: [youtube - har sat adgang til alle med link :)](https://youtu.be/pYTp5_Zd3
 - Login/profiler
 - Rigtig forespørgsels-flow (formular + backend)
 
+ - Repo hedder : https://github.com/Phbo23/Lejting
