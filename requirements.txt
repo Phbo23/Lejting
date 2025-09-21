@@ -1,0 +1,14 @@
+# LejTing - Rental Management System Requirements
+# Obligatorisk opgave 1 INNT
+
+# No external dependencies required - uses only Python standard library
+# Minimum Python version: 3.6
+
+# Standard library modules used:
+# - datetime (for date/time handling)
+# - typing (for type hints)
+# - json (for data persistence)
+# - unittest (for testing)
+# - sys (for CLI interface)
+# - os (for file operations)
+# - tempfile (for testing)
