@@ -1,0 +1,30 @@
+# LejTing - Rental Management System
+# .gitignore file
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (should not be committed to repository)
+lejting_data.json
+*.json
+
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
