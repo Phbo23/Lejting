@@ -11,7 +11,7 @@ En simpel prototype: 3 screens (Home, Browse, ItemDetail), 2 knapper (navigation
 6. Scan QR-kode i Expo Go appen (iOS/Android) eller kør på simulator.
 
 ## Demo-video
-Link: _indsæt YouTube- eller GitHub-link til skærmoptagelse her_
+Link: [youtube - har sat adgang til alle med link :)](https://youtu.be/pYTp5_Zd3O8)
 
 ## Idéer til eventuelle næste skridt:
 - Filtrering og søgning
