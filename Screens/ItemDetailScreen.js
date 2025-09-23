@@ -1,12 +1,12 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, Alert } from 'react-native';
 import styles from '../Styles/Styles.js';
-
+// Viser detaljer om en ting (fx ejer, lokation, pris)
 export default function ItemDetailScreen({ route }) {
   const { item } = route.params;
 
   const requestToRent = () => {
-    // Her kan man senere tilføje formular, backend, mm.
+    // Simulerer en forespørgsel om at leje
     Alert.alert('Forespørgsel sendt', `Du har forespurgt på at leje "${item.title}". Udlejer kontakter dig.`);
   };
 
