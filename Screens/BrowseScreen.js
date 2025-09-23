@@ -2,7 +2,8 @@ import React from 'react';
 import { View, Text, FlatList, TouchableOpacity } from 'react-native';
 import styles from '../Styles/Styles.js';
 import { items } from '../Data/Items.js';
-
+// Viser en liste af ting (fra Data/Items.js)
+// Man kan trykke på en ting for at gå til detaljer
 export default function BrowseScreen({ navigation }) {
   const renderItem = ({ item }) => (
     <TouchableOpacity style={styles.listItem} onPress={() => navigation.navigate('ItemDetail', { item })}>
