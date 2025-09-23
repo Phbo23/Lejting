@@ -1,3 +1,4 @@
+// Den indeholder nogle test-ting, man kan leje i appen.
 export const items = [
     { id: '1', title: 'Køkkenmixer', pricePerDay: 35, owner: 'Anna', location: 'Frederiksberg' },
     { id: '2', title: 'Slagboremaskine', pricePerDay: 50, owner: 'Jonas', location: 'Nørrebro' },
