@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-
+// Her samles der alle styles ét sted, så det kan genbruges på tværs af skærmene i appen.
 export default StyleSheet.create({
   container: {
     flex: 1,
