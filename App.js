@@ -5,9 +5,10 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import HomeScreen from './Screens/HomeScreen';
 import BrowseScreen from './Screens/BrowseScreen';
 import ItemDetailScreen from './Screens/ItemDetailScreen';
-
+// Der bruges stack navigation til at kunne skifte mellem forskellige sider i appen.
 const Stack = createNativeStackNavigator();
 
+// NavigationContainer holder hele navigationen i live
 export default function App() {
   return (
     <NavigationContainer>
